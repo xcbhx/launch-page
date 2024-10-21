@@ -11,6 +11,10 @@ body {
     color: white;
 }
 
+.lead {
+    color: aliceblue;
+}
+
 .hero-background-img {
     background-image: url("img1.jpg");
     background-repeat: no-repeat;
